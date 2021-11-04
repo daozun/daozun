@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @daozun
 - 👀 I’m interested in Javscript
-- 🌱 I’m currently learning Javscript
 
 <!---
 daozun/daozun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
